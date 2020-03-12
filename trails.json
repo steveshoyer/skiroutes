@@ -373,7 +373,7 @@
 	"american-express4": [
 		"con-033",
 		"con-031",
-		256,
+		680,
 		"intermediate",
 		"American Express"
 	],
@@ -387,7 +387,7 @@
 	"tourist-trap1": [
 		"spruce-peak-base",
 		"con-069",
-		230,
+		680,
 		"intermediate",
 		"Tourist Trap"
 	],
@@ -422,7 +422,7 @@
 	"vortex1": [
 		"con-015",
 		"con-016",
-		218,
+		245,
 		"expert",
 		"Vortex"
 	],
@@ -450,7 +450,7 @@
 	"ruby-palace2": [
 		"con-006",
 		"oz-base",
-		714,
+		720,
 		"expert",
 		"Ruby Palace"
 	],
@@ -464,7 +464,7 @@
 	"lost-princess1": [
 		"oz-summit",
 		"con-007",
-		144,
+		175,
 		"expert",
 		"Lost Princess"
 	],
@@ -478,7 +478,7 @@
 	"eureka1": [
 		"oz-summit",
 		"con-007",
-		150,
+		170,
 		"expert",
 		"Eureka"
 	],
@@ -506,7 +506,7 @@
 	"cyclone2": [
 		"con-080",
 		"con-011",
-		118,
+		125,
 		"easy",
 		"Cyclone"
 	],
@@ -527,14 +527,14 @@
 	"airglow1": [
 		"aurora-summit",
 		"con-083",
-		173,
+		178,
 		"advanced",
 		"Airglow"
 	],
 	"airglow2": [
 		"con-083",
 		"con-080",
-		48,
+		55,
 		"advanced",
 		"Airglow"
 	],
@@ -562,7 +562,7 @@
 	"airglow6": [
 		"con-085",
 		"aurora-base",
-		123,
+		150,
 		"expert",
 		"Airglow"
 	],
@@ -583,21 +583,21 @@
 	"super-nova1": [
 		"con-081",
 		"con-082",
-		150,
+		220,
 		"expert",
 		"Super Nova"
 	],
 	"super-nova2": [
 		"con-082",
 		"con-084",
-		140,
+		170,
 		"expert",
 		"Super Nova"
 	],
 	"celestial1": [
 		"con-089",
 		"con-082",
-		187,
+		210,
 		"expert",
 		"Celestial"
 	],
@@ -618,14 +618,14 @@
 	"northern-lights2": [
 		"con-004",
 		"con-010",
-		118,
+		135,
 		"intermediate",
 		"Northern Lights"
 	],
 	"northern-lights3": [
 		"con-010",
 		"con-011",
-		78,
+		120,
 		"intermediate",
 		"Northern Lights"
 	],
@@ -639,7 +639,7 @@
 	"northern-lights5": [
 		"con-012",
 		"aurora-base",
-		292,
+		320,
 		"intermediate",
 		"Northern Lights"
 	],
@@ -681,14 +681,14 @@
 	"moonstruck2": [
 		"con-020",
 		"con-025",
-		513,
+		640,
 		"easy",
 		"Moonstruck"
 	],
 	"moonstruck3": [
 		"con-025",
 		"con-067",
-		43,
+		48,
 		"easy",
 		"Moonstruck"
 	],
@@ -709,7 +709,7 @@
 	"starlight3": [
 		"con-068",
 		"con-067",
-		213,
+		225,
 		"easy",
 		"Starlight"
 	],
@@ -723,7 +723,7 @@
 	"green-cheese1": [
 		"con-022",
 		"con-021",
-		105,
+		110,
 		"easy",
 		"Green Cheese"
 	],
@@ -737,14 +737,14 @@
 	"starburst1": [
 		"little-white-cap-summit",
 		"con-021",
-		96,
+		120,
 		"intermediate",
 		"Starburst"
 	],
 	"starburst2": [
 		"con-021",
 		"con-025",
-		604,
+		630,
 		"intermediate",
 		"Starburst"
 	],
@@ -779,7 +779,7 @@
 	"white-heat2": [
 		"con-024",
 		"white-heat-chair-base",
-		109,
+		260,
 		"intermediate",
 		"White Heat"
 	],
@@ -800,7 +800,7 @@
 	"tempest2": [
 		"con-064",
 		"con-030",
-		95,
+		100,
 		"intermediate",
 		"Tempest"
 	],
@@ -814,14 +814,14 @@
 	"tempest4": [
 		"con-027",
 		"con-060",
-		277,
+		280,
 		"intermediate",
 		"Tempest"
 	],
 	"tempest5": [
 		"con-060",
 		"con-061",
-		89,
+		103,
 		"intermediate",
 		"Tempest"
 	],
@@ -877,7 +877,7 @@
 	"salvation3": [
 		"con-066",
 		"con-029",
-		217,
+		260,
 		"intermediate",
 		"Salvation"
 	],
@@ -912,7 +912,7 @@
 	"heats-on2": [
 		"con-026",
 		"white-heat-chair-base",
-		163,
+		170,
 		"intermediate",
 		"Heat's On"
 	],
@@ -926,7 +926,7 @@
 	"cascades1": [
 		"con-055",
 		"con-072",
-		171,
+		200,
 		"intermediate",
 		"Cascades"
 	],
@@ -940,7 +940,7 @@
 	"cascades3": [
 		"con-073",
 		"white-cap-mid",
-		109,
+		120,
 		"intermediate",
 		"Cascades"
 	],
@@ -968,7 +968,7 @@
 	"snowbound": [
 		"con-073",
 		"con-028",
-		211,
+		220,
 		"advanced",
 		"Snowbound"
 	],
@@ -989,14 +989,14 @@
 	"goat-path3": [
 		"con-078",
 		"con-053",
-		102,
+		103,
 		"easy",
 		"Goat Path"
 	],
 	"goat-path4": [
 		"con-053",
 		"con-052",
-		147,
+		155,
 		"intermediate",
 		"Goat Path"
 	],
@@ -1010,7 +1010,7 @@
 	"goat-path6": [
 		"con-049",
 		"con-044",
-		70,
+		80,
 		"intermediate",
 		"Goat Path"
 	],
@@ -1045,7 +1045,7 @@
 	"jungle-road3": [
 		"con-056",
 		"con-057",
-		33,
+		40,
 		"intermediate",
 		"Jungle Road"
 	],
@@ -1059,7 +1059,7 @@
 	"jims-whim": [
 		"con-058",
 		"con-059",
-		90,
+		95,
 		"advanced",
 		"Jim's Whim"
 	],
@@ -1094,7 +1094,7 @@
 	"monday-mourning2": [
 		"con-075",
 		"barker-base",
-		529,
+		545,
 		"intermediate",
 		"Monday Mourning"
 	],
@@ -1136,14 +1136,14 @@
 	"locke-line2": [
 		"con-076",
 		"con-058",
-		137,
+		145,
 		"advanced",
 		"Locke Line"
 	],
 	"locke-line3": [
 		"con-058",
 		"con-079",
-		180,
+		189,
 		"advanced",
 		"Locke Line"
 	],
@@ -1199,7 +1199,7 @@
 	"lazy-river4": [
 		"con-038",
 		"con-088",
-		253,
+		266,
 		"intermediate",
 		"Lazy River"
 	],
@@ -1297,7 +1297,7 @@
 	"agony4": [
 		"con-043",
 		"con-065",
-		170,
+		190,
 		"intermediate",
 		"Agony"
 	],
@@ -1339,7 +1339,7 @@
 	"sunday-punch2": [
 		"con-054",
 		"con-065",
-		380,
+		420,
 		"intermediate",
 		"Sunday Punch"
 	],
@@ -1353,14 +1353,14 @@
 	"sunday-punch4": [
 		"con-042",
 		"con-041",
-		55,
+		65,
 		"intermediate",
 		"Sunday Punch"
 	],
 	"sunday-punch5": [
 		"con-041",
 		"barker-base",
-		413,
+		440,
 		"intermediate",
 		"Sunday Punch"
 	],
@@ -1395,7 +1395,7 @@
 	"dreammaker1": [
 		"north-peak-summit",
 		"con-091",
-		208,
+		280,
 		"easy",
 		"Dream Maker"
 	],
@@ -1430,7 +1430,7 @@
 	"dreammaker6": [
 		"con-095",
 		"north-peak-base",
-		77,
+		95,
 		"easy",
 		"Dream Maker"
 	],
@@ -1458,7 +1458,7 @@
 	"risky-business3": [
 		"con-036",
 		"con-088",
-		211,
+		220,
 		"intermediate",
 		"Risky Business"
 	],
