@@ -10,3 +10,5 @@ Input files used:
 - Shoyer_Steve_assignment1_06.py - Python source for the implementation
 
 The data files are not totally accurate or complete, but I'm working on them.
+
+To run the program, download the files and run the Python program (I used Spyder for development) with the data files in the same directory.
