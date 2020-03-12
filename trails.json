@@ -338,7 +338,7 @@
 	"lights-out5": [
 		"con-034",
 		"con-033",
-		619,
+		670,
 		"easy",
 		"Lights Out"
 	],
@@ -365,20 +365,20 @@
 	],
 	"american-express3": [
 		"con-037",
-		"con-033",
-		387,
+		"con-100",
+		605,
 		"intermediate",
 		"American Express"
 	],
 	"american-express4": [
+		"con-100",
 		"con-033",
-		"con-031",
-		680,
+		90,
 		"intermediate",
 		"American Express"
 	],
 	"american-express5": [
-		"con-031",
+		"con-033",
 		"spruce-peak-base",
 		174,
 		"intermediate",
@@ -891,7 +891,7 @@
 	"bims-whim2": [
 		"con-066",
 		"con-055",
-		201,
+		245,
 		"advanced",
 		"Bim's Whim"
 	],
@@ -1192,7 +1192,7 @@
 	"lazy-river3": [
 		"con-046",
 		"con-038",
-		137,
+		355,
 		"intermediate",
 		"Lazy River"
 	],
@@ -1205,15 +1205,22 @@
 	],
 	"exit-right1": [
 		"con-032",
-		"con-033",
-		114,
+		"con-100",
+		115,
 		"intermediate",
 		"Exit Right"
 	],
 	"exit-right2": [
+		"con-100",
+		"con-033",
+		100,
+		"intermediate",
+		"Exit Right"
+	],
+	"exit-right3": [
 		"con-033",
 		"south-ridge-summit",
-		276,
+		250,
 		"intermediate",
 		"Exit Right"
 	],
@@ -1465,14 +1472,14 @@
 	"risky-business4": [
 		"con-088",
 		"con-032",
-		261,
+		280,
 		"intermediate",
 		"Risky Business"
 	],
 	"risky-business5": [
 		"con-032",
 		"spruce-peak-base",
-		253,
+		265,
 		"intermediate",
 		"Risky Business"
 	]
