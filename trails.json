@@ -1,0 +1,1360 @@
+{
+	"jordan-quad-14": [
+		"jordan-base",
+		"jordan-summit",
+		1463,
+		"lift",
+		"Jordan Quad (lift 14)"
+	],
+	"oz-quad-15": [
+		"oz-base",
+		"oz-summit",
+		893,
+		"lift",
+		"Oz Quad (lift 15)"
+	],
+	"aurora-quad-12": [
+		"aurora-base",
+		"aurora-summit",
+		1051,
+		"lift",
+		"Aurora Quad (lift 12)"
+	],
+	"jordan-double-13e": [
+		"jordan-base",
+		"aurora-base",
+		567,
+		"lift",
+		"Jordan Double (lift 13)"
+	],
+	"jordan-double-13w": [
+		"aurora-base",
+		"jordan-base",
+		567,
+		"lift",
+		"Jordan Double (lift 13)"
+	],
+	"little-white-cap-quad-11": [
+		"white-cap-base",
+		"little-white-cap-summit",
+		953,
+		"lift",
+		"Little White Cap Quad (lift 11)"
+	],
+	"white-heat-quad-10": [
+		"white-heat-chair-base",
+		"white-cap-summit",
+		1091,
+		"lift",
+		"White Heat Quad (lift 10)"
+	],
+	"white-cap-quad-9": [
+		"white-cap-base",
+		"white-cap-mid",
+		1125,
+		"lift",
+		"White Cap Quad (lift 9)"
+	],
+	"barker-express-1": [
+		"barker-base",
+		"barker-summit",
+		1502,
+		"lift",
+		"Barker Mountain Express (lift 1)"
+	],
+	"locke-triple-4": [
+		"barker-base",
+		"locke-summit",
+		1479,
+		"lift",
+		"Locke Mountain Triple (lift 4)"
+	],
+	"chondola-7": [
+		"south-ridge-base",
+		"peak-lodge",
+		1898,
+		"lift",
+		"Chondola (lift 7)"
+	],
+	"south-ridge-express-2": [
+		"south-ridge-base",
+		"south-ridge-summit",
+		926,
+		"lift",
+		"South Ridge Express (lift 2)"
+	],
+	"spruce-peak-triple-8": [
+		"spruce-peak-base",
+		"spruce-peak-summit",
+		1334,
+		"lift",
+		"Spruce Peak Triple (lift 8)"
+	],
+	"north-peak-express-6": [
+		"north-peak-base",
+		"north-peak-summit",
+		1271,
+		"lift",
+		"North Peak Express (lift 6)"
+	],
+	"quantum-leap-triple-3": [
+		"aurora-base",
+		"north-peak-summit",
+		679,
+		"lift",
+		"Quantum Leap Triple (lift 3)"
+	],
+	"carabma1": [
+		"jordan-summit",
+		"con-003",
+		471,
+		"expert",
+		"¡Caramba!"
+	],
+	"carabma2": [
+		"con-003",
+		"con-001",
+		478,
+		"expert",
+		"¡Caramba!"
+	],
+	"wizards-gulch1": [
+		"con-002",
+		"con-003",
+		290,
+		"expert",
+		"Wizard's Gulch"
+	],
+	"wizards-gulch2": [
+		"con-003",
+		"oz-base",
+		310,
+		"expert",
+		"Wizard's Gulch"
+	],
+	"excalibur": [
+		"jordan-summit",
+		"jordan-base",
+		1497,
+		"intermediate",
+		"Excalibur"
+	],
+	"rogue angel1": [
+		"jordan-summit",
+		"con-002",
+		317,
+		"intermediate",
+		"Rogue Angel"
+	],
+	"rogue angel2": [
+		"con-002",
+		"con-019",
+		949,
+		"intermediate",
+		"Rogue Angel"
+	],
+	"lolapalooza": [
+		"jordan-summit",
+		"jordan-base",
+		2358,
+		"easy",
+		"Lolapalooza"
+	],
+	"borealis": [
+		"aurora-summit",
+		"con-015",
+		458,
+		"easy",
+		"Borealis"
+	],
+	"aludra": [
+		"con-015",
+		"con-014",
+		356,
+		"easy",
+		"Aludra"
+	],
+	"sirius": [
+		"spruce-summit",
+		"con-015",
+		286,
+		"easy",
+		"Sirius"
+	],
+	"state-fair1": [
+		"oz-base",
+		"con-001",
+		228,
+		"easy",
+		"State Fair"
+	],
+	"state-fair2": [
+		"con-001",
+		"con-019",
+		223,
+		"easy",
+		"State Fair"
+	],
+	"state-fair3": [
+		"con-019",
+		"jordan-base",
+		222,
+		"easy",
+		"State Fair"
+	],
+	"roadrunner1": [
+		"barker-base",
+		"con-063",
+		92,
+		"easy",
+		"Roadrunner"
+	],
+	"roadrunner2": [
+		"con-063",
+		"con-062",
+		232,
+		"easy",
+		"Roadrunner"
+	],
+	"roadrunner3": [
+		"con-062",
+		"white-cap-base",
+		895,
+		"easy",
+		"Roadrunner"
+	],
+	"easy street": [
+		"barker-base",
+		"south-ridge-base",
+		265,
+		"easy",
+		"Easy Street"
+	],
+	"downdraft": [
+		"spruce-peak-summit",
+		"con-018",
+		367,
+		"expert",
+		"Downdraft"
+	],
+	"cowardly-lion": [
+		"oz-summit",
+		"con-008",
+		334,
+		"easy",
+		"Cowardly Lion"
+	],
+	"kansas1": [
+		"jordan-summit",
+		"con-006",
+		269,
+		"easy",
+		"Kansas"
+	],
+	"kansas2": [
+		"con-006",
+		"con-007",
+		112,
+		"easy",
+		"Kansas"
+	],
+	"kansas3": [
+		"con-007",
+		"con-008",
+		112,
+		"easy",
+		"Kansas"
+	],
+	"kansas4": [
+		"con-008",
+		"con-009",
+		853,
+		"easy",
+		"Kansas"
+	],
+	"kansas5": [
+		"con-009",
+		"con-010",
+		245,
+		"easy",
+		"Kansas"
+	],
+	"kansas6": [
+		"con-010",
+		"con-083",
+		54,
+		"easy",
+		"Kansas"
+	],
+	"kansas7": [
+		"con-083",
+		"con-014",
+		53,
+		"easy",
+		"Kansas"
+	],
+	"lights-out1": [
+		"con-014",
+		"con-016",
+		353,
+		"easy",
+		"Lights Out"
+	],
+	"lights-out2": [
+		"con-016",
+		"con-018",
+		290,
+		"easy",
+		"Lights Out"
+	],
+	"lights-out3": [
+		"con-018",
+		"peak-lodge",
+		269,
+		"easy",
+		"Lights Out"
+	],
+	"lights-out4": [
+		"peak-lodge",
+		"con-034",
+		50,
+		"easy",
+		"Lights Out"
+	],
+	"lights-out5": [
+		"con-034",
+		"con-033",
+		619,
+		"easy",
+		"Lights Out"
+	],
+	"lights-out6": [
+		"con-033",
+		"con-031",
+		619,
+		"easy",
+		"Lights Out"
+	],
+	"american-express1": [
+		"spruce-peak-base",
+		"con-035",
+		438,
+		"intermediate",
+		"American Express"
+	],
+	"american-express2": [
+		"con-035",
+		"con-037",
+		116,
+		"intermediate",
+		"American Express"
+	],
+	"american-express3": [
+		"con-037",
+		"con-033",
+		387,
+		"intermediate",
+		"American Express"
+	],
+	"american-express4": [
+		"con-033",
+		"con-031",
+		256,
+		"intermediate",
+		"American Express"
+	],
+	"american-express5": [
+		"con-031",
+		"spruce-peak-base",
+		174,
+		"intermediate",
+		"American Express"
+	],
+	"tourist-trap1": [
+		"spruce-peak-base",
+		"con-069",
+		230,
+		"intermediate",
+		"Tourist Trap"
+	],
+	"tourist-trap2": [
+		"con-069",
+		"barker-base",
+		516,
+		"intermediate",
+		"Tourist Trap"
+	],
+	"outta-here": [
+		"con-069",
+		"con-070",
+		229,
+		"intermediate",
+		"Outta Here"
+	],
+	"paradigm1": [
+		"peak-lodge",
+		"con-017",
+		484,
+		"intermediate",
+		"Paradigm"
+	],
+	"paradigm2": [
+		"con-017",
+		"aurora-base",
+		295,
+		"intermediate",
+		"Paradigm"
+	],
+	"vortex1": [
+		"con-015",
+		"con-016",
+		218,
+		"expert",
+		"Vortex"
+	],
+	"vortex2": [
+		"con-016",
+		"con-017",
+		360,
+		"expert",
+		"Vortex"
+	],
+	"emerald-city": [
+		"con-008",
+		"con-005",
+		634,
+		"expert",
+		"Emerald City"
+	],
+	"ruby-palace1": [
+		"oz-summit",
+		"con-006",
+		144,
+		"expert",
+		"Ruby Palace"
+	],
+	"ruby-palace2": [
+		"con-006",
+		"oz-base",
+		714,
+		"expert",
+		"Ruby Palace"
+	],
+	"tin-woodsman": [
+		"con-007",
+		"con-005",
+		658,
+		"expert",
+		"Tin Woodsman"
+	],
+	"lost-princess1": [
+		"oz-summit",
+		"con-007",
+		144,
+		"expert",
+		"Lost Princess"
+	],
+	"lost-princess2": [
+		"con-007",
+		"con-005",
+		660,
+		"expert",
+		"Lost Princess"
+	],
+	"eureka1": [
+		"oz-summit",
+		"con-007",
+		150,
+		"expert",
+		"Eureka"
+	],
+	"eureka2": [
+		"con-007",
+		"con-005",
+		660,
+		"expert",
+		"Eureka"
+	],
+	"eureka3": [
+		"con-005",
+		"oz-base",
+		169,
+		"expert",
+		"Eureka"
+	],
+	"cyclone1": [
+		"con-014",
+		"con-080",
+		74,
+		"easy",
+		"Cyclone"
+	],
+	"cyclone2": [
+		"con-080",
+		"con-011",
+		118,
+		"easy",
+		"Cyclone"
+	],
+	"cyclone3": [
+		"con-011",
+		"con-005",
+		630,
+		"easy",
+		"Cyclone"
+	],
+	"cyclone4": [
+		"con-005",
+		"oz-base",
+		194,
+		"easy",
+		"Cyclone"
+	],
+	"airglow1": [
+		"aurora-summit",
+		"con-083",
+		173,
+		"advanced",
+		"Airglow"
+	],
+	"airglow2": [
+		"con-083",
+		"con-080",
+		48,
+		"advanced",
+		"Airglow"
+	],
+	"airglow3": [
+		"con-080",
+		"con-081",
+		53,
+		"advanced",
+		"Airglow"
+	],
+	"airglow4": [
+		"con-081",
+		"con-013",
+		312,
+		"advanced",
+		"Airglow"
+	],
+	"airglow5": [
+		"con-013",
+		"con-085",
+		374,
+		"advanced",
+		"Airglow"
+	],
+	"airglow6": [
+		"con-085",
+		"aurora-base",
+		123,
+		"expert",
+		"Airglow"
+	],
+	"black-hole1": [
+		"con-013",
+		"con-084",
+		107,
+		"expert",
+		"Black Hole"
+	],
+	"black-hole2": [
+		"con-084",
+		"con-085",
+		256,
+		"expert",
+		"Black Hole"
+	],
+	"super-nova1": [
+		"con-081",
+		"con-082",
+		150,
+		"expert",
+		"Super Nova"
+	],
+	"super-nova2": [
+		"con-082",
+		"con-084",
+		140,
+		"expert",
+		"Super Nova"
+	],
+	"celestial1": [
+		"con-083",
+		"con-082",
+		187,
+		"expert",
+		"Celestial"
+	],
+	"celestial2": [
+		"con-082",
+		"con-017",
+		354,
+		"expert",
+		"Celestial"
+	],
+	"northern-lights1": [
+		"aurora-summit",
+		"con-004",
+		127,
+		"intermediate",
+		"Northern Lights"
+	],
+	"northern-lights2": [
+		"con-004",
+		"con-010",
+		118,
+		"intermediate",
+		"Northern Lights"
+	],
+	"northern-lights3": [
+		"con-010",
+		"con-011",
+		78,
+		"intermediate",
+		"Northern Lights"
+	],
+	"northern-lights4": [
+		"con-011",
+		"con-012",
+		609,
+		"intermediate",
+		"Northern Lights"
+	],
+	"northern-lights5": [
+		"con-012",
+		"aurora-base",
+		292,
+		"intermediate",
+		"Northern Lights"
+	],
+	"witch-way": [
+		"con-004",
+		"con-009",
+		162,
+		"intermediate",
+		"Witch Way"
+	],
+	"firestar": [
+		"con-012",
+		"jordan-base",
+		602,
+		"intermediate",
+		"Northern Lights"
+	],
+	"flying-monkey": [
+		"con-009",
+		"con-086",
+		322,
+		"expert",
+		"Flying Monkey"
+	],
+	"poppy-fields": [
+		"con-087",
+		"con-086",
+		567,
+		"expert",
+		"Poppy Fields"
+	],
+	"moonstruck1": [
+		"little-white-cap-summit",
+		"con-020",
+		298,
+		"easy",
+		"Moonstruck"
+	],
+	"moonstruck2": [
+		"con-020",
+		"con-025",
+		513,
+		"easy",
+		"Moonstruck"
+	],
+	"moonstruck3": [
+		"con-025",
+		"con-067",
+		43,
+		"easy",
+		"Moonstruck"
+	],
+	"starlight1": [
+		"little-white-cap-summit",
+		"con-022",
+		144,
+		"easy",
+		"Starlight"
+	],
+	"starlight2": [
+		"con-022",
+		"con-068",
+		497,
+		"easy",
+		"Starlight"
+	],
+	"starlight3": [
+		"con-068",
+		"con-067",
+		213,
+		"easy",
+		"Starlight"
+	],
+	"starlight4": [
+		"con-067",
+		"white-cap-base",
+		182,
+		"easy",
+		"Starlight"
+	],
+	"green-cheese1": [
+		"con-022",
+		"con-021",
+		105,
+		"easy",
+		"Green Cheese"
+	],
+	"green-cheese2": [
+		"con-021",
+		"con-020",
+		158,
+		"easy",
+		"Green Cheese"
+	],
+	"starburst1": [
+		"little-white-cap-summit",
+		"con-021",
+		96,
+		"intermediate",
+		"Starburst"
+	],
+	"starburst2": [
+		"con-021",
+		"con-025",
+		604,
+		"intermediate",
+		"Starburst"
+	],
+	"starburst3": [
+		"con-025",
+		"white-cap-base",
+		214,
+		"intermediate",
+		"Starburst"
+	],
+	"assumption": [
+		"con-022",
+		"con-023",
+		137,
+		"intermediate",
+		"Assumption"
+	],
+	"shock-wave": [
+		"white-cap-summit",
+		"con-023",
+		987,
+		"expert",
+		"Shock Wave"
+	],
+	"white-heat1": [
+		"white-cap-summit",
+		"con-024",
+		789,
+		"expert",
+		"White Heat"
+	],
+	"white-heat2": [
+		"con-024",
+		"white-heat-chair-base",
+		109,
+		"intermediate",
+		"White Heat"
+	],
+	"wildfire": [
+		"con-064",
+		"con-062",
+		641,
+		"intermediate",
+		"Wildfire"
+	],
+	"tempest1": [
+		"white-cap-mid",
+		"con-064",
+		76,
+		"easy",
+		"Tempest"
+	],
+	"tempest2": [
+		"con-064",
+		"con-030",
+		95,
+		"intermediate",
+		"Tempest"
+	],
+	"tempest3": [
+		"con-030",
+		"con-027",
+		328,
+		"advanced",
+		"Tempest"
+	],
+	"tempest4": [
+		"con-027",
+		"con-060",
+		277,
+		"intermediate",
+		"Tempest"
+	],
+	"tempest5": [
+		"con-060",
+		"con-061",
+		89,
+		"intermediate",
+		"Tempest"
+	],
+	"tempest6": [
+		"con-061",
+		"white-cap-base",
+		366,
+		"intermediate",
+		"Tempest"
+	],
+	"jibe": [
+		"con-030",
+		"con-027",
+		373,
+		"intermediate",
+		"Jibe"
+	],
+	"obsession1": [
+		"white-cap-summit",
+		"con-029",
+		358,
+		"advanced",
+		"Obsession"
+	],
+	"obsession2": [
+		"con-029",
+		"con-028",
+		318,
+		"advanced",
+		"Obsession"
+	],
+	"obsession3": [
+		"con-028",
+		"con-026",
+		521,
+		"advanced",
+		"Obsession"
+	],
+	"salvation1": [
+		"white-cap-summit",
+		"con-071",
+		271,
+		"intermediate",
+		"Salvation"
+	],
+	"salvation2": [
+		"con-071",
+		"con-066",
+		132,
+		"intermediate",
+		"Salvation"
+	],
+	"salvation3": [
+		"con-066",
+		"con-029",
+		217,
+		"intermediate",
+		"Salvation"
+	],
+	"bims-whim1": [
+		"locke-summit",
+		"con-071",
+		508,
+		"advanced",
+		"Bim's Whim"
+	],
+	"bims-whim2": [
+		"con-066",
+		"con-055",
+		201,
+		"advanced",
+		"Bim's Whim"
+	],
+	"heats-off": [
+		"con-029",
+		"con-072",
+		221,
+		"intermediate",
+		"Heat's Off"
+	],
+	"heats-on1": [
+		"con-027",
+		"con-026",
+		148,
+		"intermediate",
+		"Heat's On"
+	],
+	"heats-on2": [
+		"con-026",
+		"white-heat-chair-base",
+		163,
+		"intermediate",
+		"Heat's On"
+	],
+	"village-trail": [
+		"con-060",
+		"con-061",
+		394,
+		"easy",
+		"Village Trail"
+	],
+	"cascades1": [
+		"con-055",
+		"con-072",
+		171,
+		"intermediate",
+		"Cascades"
+	],
+	"cascades2": [
+		"con-072",
+		"con-073",
+		98,
+		"intermediate",
+		"Cascades"
+	],
+	"cascades3": [
+		"con-073",
+		"white-cap-mid",
+		109,
+		"intermediate",
+		"Cascades"
+	],
+	"cascades4": [
+		"white-cap-mid",
+		"con-074",
+		130,
+		"intermediate",
+		"Cascades"
+	],
+	"cascades5": [
+		"con-074",
+		"con-063",
+		473,
+		"intermediate",
+		"Cascades"
+	],
+	"cascades6": [
+		"con-063",
+		"barker-base",
+		473,
+		"intermediate",
+		"Cascades"
+	],
+	"snowbound": [
+		"con-073",
+		"con-028",
+		211,
+		"advanced",
+		"Snowbound"
+	],
+	"goat-path1": [
+		"locke-summit",
+		"con-077",
+		106,
+		"easy",
+		"Goat Path"
+	],
+	"goat-path2": [
+		"con-077",
+		"con-078",
+		121,
+		"easy",
+		"Goat Path"
+	],
+	"goat-path3": [
+		"con-078",
+		"con-053",
+		102,
+		"easy",
+		"Goat Path"
+	],
+	"goat-path4": [
+		"con-053",
+		"con-052",
+		147,
+		"intermediate",
+		"Goat Path"
+	],
+	"goat-path5": [
+		"con-052",
+		"con-049",
+		179,
+		"intermediate",
+		"Goat Path"
+	],
+	"goat-path6": [
+		"con-049",
+		"con-044",
+		70,
+		"intermediate",
+		"Goat Path"
+	],
+	"goat-path7": [
+		"con-044",
+		"con-045",
+		141,
+		"intermediate",
+		"Goat Path"
+	],
+	"goat-path8": [
+		"con-045",
+		"con-046",
+		177,
+		"intermediate",
+		"Goat Path"
+	],
+	"jungle-road1": [
+		"barker-summit",
+		"con-053",
+		297,
+		"intermediate",
+		"Jungle Road"
+	],
+	"jungle-road2": [
+		"con-053",
+		"con-056",
+		65,
+		"intermediate",
+		"Jungle Road"
+	],
+	"jungle-road3": [
+		"con-056",
+		"con-057",
+		33,
+		"intermediate",
+		"Jungle Road"
+	],
+	"jungle-road4": [
+		"con-057",
+		"con-058",
+		89,
+		"intermediate",
+		"Jungle Road"
+	],
+	"jims-whim": [
+		"con-058",
+		"con-059",
+		90,
+		"advanced",
+		"Jim's Whim"
+	],
+	"T2-1": [
+		"locke-summit",
+		"con-076",
+		73,
+		"advanced",
+		"T2"
+	],
+	"T2-2": [
+		"con-076",
+		"con-059",
+		224,
+		"advanced",
+		"T2"
+	],
+	"T2-3": [
+		"con-059",
+		"con-055",
+		346,
+		"advanced",
+		"T2"
+	],
+	"monday-mourning1": [
+		"con-055",
+		"con-075",
+		411,
+		"advanced",
+		"Monday Mourning"
+	],
+	"monday-mourning2": [
+		"con-075",
+		"barker-base",
+		529,
+		"intermediate",
+		"Monday Mourning"
+	],
+	"upper-sunday-punch1": [
+		"locke-summit",
+		"con-077",
+		82,
+		"intermediate",
+		"Upper Sunday Punch"
+	],
+	"upper-sunday-punch2": [
+		"con-077",
+		"con-057",
+		142,
+		"intermediate",
+		"Upper Sunday Punch"
+	],
+	"upper-sunday-punch3": [
+		"con-057",
+		"con-079",
+		240,
+		"intermediate",
+		"Upper Sunday Punch"
+	],
+	"upper-sunday-punch4": [
+		"con-079",
+		"con-055",
+		239,
+		"intermediate",
+		"Upper Sunday Punch"
+	],
+	"locke-line1": [
+		"locke-summit",
+		"con-076",
+		73,
+		"advanced",
+		"Locke Line"
+	],
+	"locke-line2": [
+		"con-076",
+		"con-058",
+		137,
+		"advanced",
+		"Locke Line"
+	],
+	"locke-line3": [
+		"con-058",
+		"con-079",
+		180,
+		"advanced",
+		"Locke Line"
+	],
+	"three-mile-trail1": [
+		"con-047",
+		"con-039",
+		624,
+		"easy",
+		"Three Mile Trail"
+	],
+	"three-mile-trail2": [
+		"con-039",
+		"con-036",
+		258,
+		"easy",
+		"Three Mile Trail"
+	],
+	"three-mile-trail3": [
+		"con-036",
+		"con-037",
+		147,
+		"easy",
+		"Three Mile Trail"
+	],
+	"three-mile-trail4": [
+		"con-037",
+		"con-034",
+		131,
+		"easy",
+		"Three Mile Trail"
+	],
+	"lazy-river1": [
+		"barker-summit",
+		"con-047",
+		336,
+		"easy",
+		"Lazy River"
+	],
+	"lazy-river2": [
+		"con-047",
+		"con-046",
+		490,
+		"intermediate",
+		"Lazy River"
+	],
+	"lazy-river3": [
+		"con-046",
+		"con-038",
+		137,
+		"intermediate",
+		"Lazy River"
+	],
+	"lazy-river4": [
+		"con-038",
+		"con-088",
+		253,
+		"intermediate",
+		"Lazy River"
+	],
+	"exit-right1": [
+		"con-032",
+		"con-033",
+		114,
+		"intermediate",
+		"Exit Right"
+	],
+	"exit-right2": [
+		"con-033",
+		"south-ridge-summit",
+		276,
+		"intermediate",
+		"Exit Right"
+	],
+	"three-mile-trail5": [
+		"con-034",
+		"peak-lodge",
+		108,
+		"easy",
+		"Three Mile Trail"
+	],
+	"sluice": [
+		"con-039",
+		"con-038",
+		198,
+		"intermediate",
+		"Sluice"
+	],
+	"second-mile1": [
+		"peak-lodge",
+		"con-088",
+		0,
+		"easy",
+		"Second Mile"
+	],
+	"agony1": [
+		"barker-summit",
+		"con-048",
+		135,
+		"expert",
+		"Agony"
+	],
+	"agony2": [
+		"con-048",
+		"con-049",
+		85,
+		"expert",
+		"Agony"
+	],
+	"agony3": [
+		"con-049",
+		"con-043",
+		511,
+		"expert",
+		"Agony"
+	],
+	"agony4": [
+		"con-043",
+		"con-065",
+		170,
+		"intermediate",
+		"Agony"
+	],
+	"top-gun1": [
+		"con-048",
+		"con-044",
+		115,
+		"expert",
+		"Top Gun"
+	],
+	"top-gun2": [
+		"con-044",
+		"con-042",
+		787,
+		"expert",
+		"Top Gun"
+	],
+	"right-stuff1": [
+		"barker-summit",
+		"con-045",
+		275,
+		"expert",
+		"Right Stuff"
+	],
+	"right-stuff2": [
+		"con-045",
+		"con-041",
+		902,
+		"expert",
+		"Right Stuff"
+	],
+	"sunday-punch1": [
+		"con-055",
+		"con-054",
+		145,
+		"intermediate",
+		"Sunday Punch"
+	],
+	"sunday-punch2": [
+		"con-054",
+		"con-065",
+		380,
+		"intermediate",
+		"Sunday Punch"
+	],
+	"sunday-punch3": [
+		"con-065",
+		"con-042",
+		126,
+		"intermediate",
+		"Sunday Punch"
+	],
+	"sunday-punch4": [
+		"con-042",
+		"con-041",
+		55,
+		"intermediate",
+		"Sunday Punch"
+	],
+	"sunday-punch5": [
+		"con-041",
+		"barker-base",
+		413,
+		"intermediate",
+		"Sunday Punch"
+	],
+	"upper-cut": [
+		"con-056",
+		"con-051",
+		335,
+		"advanced",
+		"Upper Cut"
+	],
+	"lower-upper-cut1": [
+		"con-051",
+		"con-050",
+		121,
+		"intermediate",
+		"Lower Upper Cut"
+	],
+	"lower-upper-cut2": [
+		"con-050",
+		"con-054",
+		100,
+		"intermediate",
+		"Lower Upper Cut"
+	],
+	"southpaw": [
+		"con-050",
+		"con-043",
+		339,
+		"intermediate",
+		"Southpaw"
+	],
+	"dreammaker1": [
+		"con-050",
+		"con-043",
+		339,
+		"intermediate",
+		"Dream Maker"
+	],
+	"peak-easy": [
+		"north-peak-summit",
+		"peak-lodge",
+		129,
+		"intermediate",
+		"Peak Easy"
+	]
+}
