@@ -44,7 +44,7 @@
 	"white-heat-quad-10": [
 		"white-heat-chair-base",
 		"white-cap-summit",
-		1091,
+		1020,
 		"lift",
 		"White Heat Quad (lift 10)"
 	],
@@ -72,7 +72,7 @@
 	"chondola-7": [
 		"south-ridge-base",
 		"peak-lodge",
-		1898,
+		1825,
 		"lift",
 		"Chondola (lift 7)"
 	],
@@ -100,7 +100,7 @@
 	"quantum-leap-triple-3": [
 		"aurora-base",
 		"north-peak-summit",
-		679,
+		620,
 		"lift",
 		"Quantum Leap Triple (lift 3)"
 	],
@@ -1420,26 +1420,33 @@
 		"easy",
 		"Dream Maker"
 	],
-	"dreammaker4": [
+	"southway1": [
 		"con-094",
 		"con-099",
 		319,
 		"easy",
-		"Dream Maker"
+		"Southway"
 	],
-	"dreammaker5": [
+	"southway2": [
 		"con-099",
 		"con-095",
 		116,
 		"easy",
-		"Dream Maker"
+		"Southway"
 	],
-	"dreammaker6": [
+	"southway3": [
 		"con-095",
 		"north-peak-base",
 		95,
 		"easy",
-		"Dream Maker"
+		"Southway"
+	],
+	"southway4": [
+		"north-peak-base",
+		"con-106",
+		450,
+		"easy",
+		"Southway"
 	],
 	"peak-easy": [
 		"north-peak-summit",
@@ -1482,5 +1489,208 @@
 		265,
 		"intermediate",
 		"Risky Business"
+	],
+	"escapade1": [
+		"con-091",
+		"con-092",
+		150,
+		"intermediate",
+		"Escapade"
+	],
+	"escapade2": [
+		"con-092",
+		"con-101",
+		660,
+		"intermediate",
+		"Escapade"
+	],
+	"escapade3": [
+		"con-101",
+		"con-102",
+		85,
+		"intermediate",
+		"Escapade"
+	],
+	"escapade4": [
+		"con-102",
+		"con-103",
+		340,
+		"intermediate",
+		"Escapade"
+	],
+	"escapade5": [
+		"con-103",
+		"north-peak-base",
+		110,
+		"intermediate",
+		"Escapade"
+	],
+	"northway1": [
+		"con-105",
+		"con-103",
+		75,
+		"intermediate",
+		"Northway"
+	],
+	"northway2": [
+		"con-103",
+		"con-104",
+		60,
+		"intermediate",
+		"Northway"
+	],
+	"northway3": [
+		"con-104",
+		"con-095",
+		67,
+		"intermediate",
+		"Northway"
+	],
+	"northern-exposure": [
+		"con-092",
+		"con-107",
+		520,
+		"advanced",
+		"Northern Exposure"
+	],
+	"absolutely1": [
+		"con-107",
+		"con-106",
+		165,
+		"intermediate",
+		"Absolutely"
+	],
+	"absolutely2": [
+		"con-106",
+		"con-104",
+		345,
+		"intermediate",
+		"Absolutely"
+	],
+	"3D1": [
+		"con-097",
+		"con-110",
+		635,
+		"intermediate",
+		"3D"
+	],
+	"3D2": [
+		"con-110",
+		"con-108",
+		315,
+		"intermediate",
+		"3D"
+	],
+	"3D3": [
+		"con-108",
+		"con-095",
+		410,
+		"intermediate",
+		"3D"
+	],
+	"T771": [
+		"con-098",
+		"con-111",
+		550,
+		"intermediate",
+		"T77"
+	],
+	"T772": [
+		"con-111",
+		"con-109",
+		85,
+		"intermediate",
+		"T77"
+	],
+	"T773": [
+		"con-109",
+		"con-099",
+		300,
+		"intermediate",
+		"T77"
+	],
+	"last-mile1": [
+		"con-111",
+		"con-110",
+		460,
+		"intermediate",
+		"Last Mile"
+	],
+	"last-mile2": [
+		"con-110",
+		"con-107",
+		335,
+		"intermediate",
+		"Last Mile"
+	],
+	"last-mile3": [
+		"con-107",
+		"con-101",
+		160,
+		"intermediate",
+		"Last Mile"
+	],
+	"last-mile4": [
+		"con-101",
+		"south-ridge-summit",
+		75,
+		"intermediate",
+		"Last Mile"
+	],
+	"thataway1": [
+		"con-031",
+		"south-ridge-summit",
+		210,
+		"intermediate",
+		"Thataway"
+	],
+	"thataway2": [
+		"south-ridge-summit",
+		"con-031",
+		210,
+		"intermediate",
+		"Thataway"
+	],
+	"ridge-run1": [
+		"south-ridge-summit",
+		"con-102",
+		60,
+		"easy",
+		"Ridge Run"
+	],
+	"ridge-run2": [
+		"con-102",
+		"con-106",
+		95,
+		"easy",
+		"Ridge Run"
+	],
+	"ridge-run3": [
+		"con-106",
+		"con-108",
+		125,
+		"easy",
+		"Ridge Run"
+	],
+	"ridge-run4": [
+		"con-108",
+		"con-109",
+		118,
+		"easy",
+		"Ridge Run"
+	],
+	"ridge-run5": [
+		"con-109",
+		"con-094",
+		85,
+		"easy",
+		"Ridge Run"
+	],
+	"broadway": [
+		"south-ridge-summit",
+		"south-ridge-base",
+		1100,
+		"easy",
+		"Broadway"
 	]
 }
