@@ -32,6 +32,7 @@ node data - this is a dictionary of nodes and their GPS coordinates
 
 https://raw.githubusercontent.com/steveshoyer/skiroutes/master/nodes.json
 """
+
 try:
     nodes_file = 'nodes.json'
     new_nodes = 'nodes.json.new'
@@ -53,13 +54,15 @@ try:
         os.rename(new_nodes, nodes_file)
 except :
     pass
-node_data = json.load(open(nodes_file))
+
+node_data = json.load(open('nodes.json'))
     
 """
 Trail data - dictionary of trails, with the format (start, end, length, rating, print name)
 
 https://raw.githubusercontent.com/steveshoyer/skiroutes/master/nodes.json
 """
+
 try:
     trail_file = 'trails.json'
     new_trails = 'trails.json.new'
@@ -81,6 +84,7 @@ try:
         os.rename(new_trails, trail_file)
 except :
     pass
+
 trail_data = json.load(open("trails.json"))
 
 
@@ -93,6 +97,9 @@ try:
 except:
     print("The 'closed_trails.txt' file was not found")
     closed_trails = []
+   
+    
+    
     
 LENGTH = 0  # index to path length in the graph list
 RATINGS = ['lift','easy','intermediate','advanced','expert']  # trail ratings
@@ -282,7 +289,7 @@ def find_route(agent:Agent):
                     graph.setdefault(start, {})[end] = [length, print_name]
 
     heuristic = make_heuristic(agent.get_end_point(), agent.get_algorithm())
-    print(graph)
+#    print(graph)
 
 #    Use this to diagnose failed path verifications
 #    if agent.get_algorithm() == 'a-star':
@@ -421,8 +428,7 @@ def main():
 
 # start the GUI
     window.mainloop()
-    
-
+       
 
 # Tell python to run main method
 if __name__ == "__main__": main()
