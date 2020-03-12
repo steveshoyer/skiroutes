@@ -51,7 +51,7 @@
 	"white-cap-quad-9": [
 		"white-cap-base",
 		"white-cap-mid",
-		1125,
+		1170,
 		"lift",
 		"White Cap Quad (lift 9)"
 	],
@@ -79,7 +79,7 @@
 	"south-ridge-express-2": [
 		"south-ridge-base",
 		"south-ridge-summit",
-		926,
+		930,
 		"lift",
 		"South Ridge Express (lift 2)"
 	],
@@ -93,7 +93,7 @@
 	"north-peak-express-6": [
 		"north-peak-base",
 		"north-peak-summit",
-		1271,
+		1300,
 		"lift",
 		"North Peak Express (lift 6)"
 	],
@@ -107,14 +107,14 @@
 	"carabma1": [
 		"jordan-summit",
 		"con-003",
-		471,
+		498,
 		"expert",
 		"¡Caramba!"
 	],
 	"carabma2": [
 		"con-003",
 		"con-001",
-		478,
+		485,
 		"expert",
 		"¡Caramba!"
 	],
@@ -175,7 +175,7 @@
 		"Aludra"
 	],
 	"sirius": [
-		"spruce-summit",
+		"spruce-peak-summit",
 		"con-015",
 		286,
 		"easy",
@@ -184,7 +184,7 @@
 	"state-fair1": [
 		"oz-base",
 		"con-001",
-		228,
+		260,
 		"easy",
 		"State Fair"
 	],
@@ -198,14 +198,14 @@
 	"state-fair3": [
 		"con-019",
 		"jordan-base",
-		222,
+		290,
 		"easy",
 		"State Fair"
 	],
 	"roadrunner1": [
 		"barker-base",
 		"con-063",
-		92,
+		160,
 		"easy",
 		"Roadrunner"
 	],
@@ -226,14 +226,14 @@
 	"easy street": [
 		"barker-base",
 		"south-ridge-base",
-		265,
+		604,
 		"easy",
 		"Easy Street"
 	],
 	"downdraft": [
 		"spruce-peak-summit",
 		"con-018",
-		367,
+		440,
 		"expert",
 		"Downdraft"
 	],
@@ -254,14 +254,14 @@
 	"kansas2": [
 		"con-006",
 		"con-007",
-		112,
+		130,
 		"easy",
 		"Kansas"
 	],
 	"kansas3": [
 		"con-007",
 		"con-008",
-		112,
+		130,
 		"easy",
 		"Kansas"
 	],
@@ -282,14 +282,14 @@
 	"kansas5": [
 		"con-009",
 		"con-010",
-		245,
+		250,
 		"easy",
 		"Kansas"
 	],
 	"kansas6": [
 		"con-010",
 		"con-083",
-		54,
+		70,
 		"easy",
 		"Kansas"
 	],
@@ -303,21 +303,21 @@
 	"lights-out1": [
 		"con-014",
 		"con-089",
-		209,
+		225,
 		"easy",
 		"Lights Out"
 	],
 	"lights-out1a": [
 		"con-089",
 		"con-016",
-		142,
+		170,
 		"easy",
 		"Lights Out"
 	],
 	"lights-out2": [
 		"con-016",
 		"con-018",
-		290,
+		300,
 		"easy",
 		"Lights Out"
 	],
@@ -331,7 +331,7 @@
 	"lights-out4": [
 		"peak-lodge",
 		"con-034",
-		50,
+		105,
 		"easy",
 		"Lights Out"
 	],
@@ -345,21 +345,21 @@
 	"lights-out6": [
 		"con-033",
 		"con-031",
-		619,
+		700,
 		"easy",
 		"Lights Out"
 	],
 	"american-express1": [
-		"spruce-peak-base",
+		"spruce-peak-summit",
 		"con-035",
-		438,
+		480,
 		"intermediate",
 		"American Express"
 	],
 	"american-express2": [
 		"con-035",
 		"con-037",
-		116,
+		130,
 		"intermediate",
 		"American Express"
 	],
