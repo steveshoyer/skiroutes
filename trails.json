@@ -23,14 +23,14 @@
 	"jordan-double-13e": [
 		"jordan-base",
 		"aurora-base",
-		567,
+		700,
 		"lift",
 		"Jordan Double (lift 13)"
 	],
 	"jordan-double-13w": [
 		"aurora-base",
 		"jordan-base",
-		567,
+		700,
 		"lift",
 		"Jordan Double (lift 13)"
 	],
@@ -267,8 +267,15 @@
 	],
 	"kansas4": [
 		"con-008",
+		"con-087",
+		304,
+		"easy",
+		"Kansas"
+	],
+	"kansas4a": [
+		"con-087",
 		"con-009",
-		853,
+		532,
 		"easy",
 		"Kansas"
 	],
@@ -295,8 +302,15 @@
 	],
 	"lights-out1": [
 		"con-014",
+		"con-089",
+		209,
+		"easy",
+		"Lights Out"
+	],
+	"lights-out1a": [
+		"con-089",
 		"con-016",
-		353,
+		142,
 		"easy",
 		"Lights Out"
 	],
@@ -581,7 +595,7 @@
 		"Super Nova"
 	],
 	"celestial1": [
-		"con-083",
+		"con-089",
 		"con-082",
 		187,
 		"expert",
@@ -1218,9 +1232,44 @@
 		"Sluice"
 	],
 	"second-mile1": [
-		"peak-lodge",
-		"con-088",
-		0,
+		"con-034",
+		"con-090",
+		214,
+		"easy",
+		"Second Mile"
+	],
+	"second-mile2": [
+		"con-090",
+		"con-092",
+		58,
+		"easy",
+		"Second Mile"
+	],
+	"second-mile3": [
+		"con-092",
+		"con-097",
+		230,
+		"easy",
+		"Second Mile"
+	],
+	"second-mile4": [
+		"con-097",
+		"con-098",
+		75,
+		"easy",
+		"Second Mile"
+	],
+	"second-mile5": [
+		"con-098",
+		"con-093",
+		63,
+		"easy",
+		"Second Mile"
+	],
+	"second-mile6": [
+		"con-093",
+		"con-096",
+		73,
 		"easy",
 		"Second Mile"
 	],
@@ -1344,10 +1393,45 @@
 		"Southpaw"
 	],
 	"dreammaker1": [
-		"con-050",
-		"con-043",
-		339,
-		"intermediate",
+		"north-peak-summit",
+		"con-091",
+		208,
+		"easy",
+		"Dream Maker"
+	],
+	"dreammaker2": [
+		"con-091",
+		"con-093",
+		224,
+		"easy",
+		"Dream Maker"
+	],
+	"dreammaker3": [
+		"con-093",
+		"con-094",
+		572,
+		"easy",
+		"Dream Maker"
+	],
+	"dreammaker4": [
+		"con-094",
+		"con-099",
+		319,
+		"easy",
+		"Dream Maker"
+	],
+	"dreammaker5": [
+		"con-099",
+		"con-095",
+		116,
+		"easy",
+		"Dream Maker"
+	],
+	"dreammaker6": [
+		"con-095",
+		"north-peak-base",
+		77,
+		"easy",
 		"Dream Maker"
 	],
 	"peak-easy": [
@@ -1356,5 +1440,40 @@
 		129,
 		"intermediate",
 		"Peak Easy"
+	],
+	"risky-business1": [
+		"spruce-peak-summit",
+		"con-040",
+		322,
+		"intermediate",
+		"Risky Business"
+	],
+	"risky-business2": [
+		"con-040",
+		"con-036",
+		332,
+		"intermediate",
+		"Risky Business"
+	],
+	"risky-business3": [
+		"con-036",
+		"con-088",
+		211,
+		"intermediate",
+		"Risky Business"
+	],
+	"risky-business4": [
+		"con-088",
+		"con-032",
+		261,
+		"intermediate",
+		"Risky Business"
+	],
+	"risky-business5": [
+		"con-032",
+		"spruce-peak-base",
+		253,
+		"intermediate",
+		"Risky Business"
 	]
 }
